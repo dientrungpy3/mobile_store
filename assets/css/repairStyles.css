@@ -1,0 +1,18 @@
+* {
+    padding: 0 0;
+    margin: 0 0;
+    box-sizing: border-box;
+}
+
+.content .product-list a {
+    padding: 0 0;
+}
+
+.content .product-list img {
+    height: auto;
+    max-width: 100%; 
+}
+
+.content .product-list p {
+    text-align: center;
+}

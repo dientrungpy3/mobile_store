@@ -1,0 +1,10 @@
+* {
+    padding: 0 0;
+    margin: 0 0;
+    box-sizing: border-box;
+}
+
+.content img {
+    height: auto;
+    max-width: 100%; 
+}
